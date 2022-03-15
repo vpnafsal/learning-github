@@ -7,3 +7,6 @@ CAEAR
 VR
 STYLUS
 
+2 years on flutter (front end)
+3 years on fire base
+
